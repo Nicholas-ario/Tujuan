@@ -1,5 +1,5 @@
 Burger
 Pizza
 Ayam
-HotDog
-Seblak
+Sosis
+Nuget
