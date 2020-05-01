@@ -1,3 +1,5 @@
 Burger
 Pizza
 Ayam
+HotDog
+Seblak
