@@ -1,0 +1,2 @@
+# Tujuan
+Tujuan hidup saya
